@@ -1,0 +1,41 @@
+
+body{
+    margin: 7px;
+}
+
+header{
+    background-color: orange
+}
+
+a{
+    font-size: 17px;  
+    margin: 15px;
+}
+
+header h1{
+    text-align: center;
+}
+
+.tabla{
+    display: flex;
+    padding: 0;
+}
+
+th{
+    background-color: orangered;
+    padding: 10px;
+}
+
+.imagen{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    background-color: orange;
+    display: flex;
+    width: 100%;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
